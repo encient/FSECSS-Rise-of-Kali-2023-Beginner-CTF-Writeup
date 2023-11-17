@@ -11,15 +11,11 @@ The question hints about HTTP. Therefore, we could view the HTTP data through th
 
 `Right click` -> `Follow` -> `TCP Stream`
 
-![[login.png]]
+![login.png]
 
 Then, you will see the username and password.
 
-![[login2.png]]
-
-
-# Creation
-Go to a HTTP website, login and capture the network.
+![login2.png]
 
 
 # Flag
