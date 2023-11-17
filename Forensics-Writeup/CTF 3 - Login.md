@@ -19,4 +19,4 @@ Then, you will see the username and password.
 
 
 # Flag
-`ROK{user123_sup3rs3cr3tp455}
+`ROK{user123_sup3rs3cr3tp455}`
