@@ -11,7 +11,7 @@ The question hints about HTTP. Therefore, we could view the HTTP data through th
 
 `Right click` -> `Follow` -> `TCP Stream`
 
-![login.png]
+![](./login.png)
 
 Then, you will see the username and password.
 
