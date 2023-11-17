@@ -15,7 +15,7 @@ The question hints about HTTP. Therefore, we could view the HTTP data through th
 
 Then, you will see the username and password.
 
-![login2.png]
+![](login2.png)
 
 
 # Flag
