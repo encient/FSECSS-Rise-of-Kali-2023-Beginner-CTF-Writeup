@@ -9,9 +9,5 @@ Extract the zip file by using the command `unzip flag.zip`. You will see that th
 password: `3dkz1V4vvQYxWAn`
 
 
-# Creation
-[https://smallpdf.com/protect-pdf](https://smallpdf.com/protect-pdf "smallpdf.com")
-
-
 # Flag
 `ROK{hidd3n_fil3}`
