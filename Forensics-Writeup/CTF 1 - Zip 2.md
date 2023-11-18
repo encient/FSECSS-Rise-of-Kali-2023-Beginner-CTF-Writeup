@@ -6,7 +6,7 @@ Attachment: `flag`
 # Solution
 This challenge is for you to learn how to extract different types of zip files. However, the file does not show what is the file type. Therefore, we have to use `file` command to determine the file type. Below are the steps to solve this challenge: 
 
-`file flag`/
+`file flag`\n
 `unzip flag`
 `file flag`
 `mv flag flag.xz`
